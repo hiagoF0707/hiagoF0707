@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Olá, eu sou Hiago Luiz Figueiredo!
 
-<!--
-**hiagoF0707/hiagoF0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Sou um estudante apaixonado por tecnologia e programação, atualmente desenvolvendo minhas habilidades em desenvolvimento de software. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e criar projetos que contribuam para minha evolução como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e ferramentas
+🌐 HTML
+
+🎨 CSS
+
+⚙️ C++
+
+🟨 JavaScript
+
+🐍 Python
+
+🐙 Git é GitHub
+
+## 📚 Atualmente
+🌱 Aprendendo lógica de programação e desenvolvimento web.
+💡 Desenvolvendo minhas habilidades em diferentes linguagens de programação.
+🛠️ Criando projetos para colocar meus conhecimentos em prática.
+📈 Evoluindo constantemente como desenvolvedor.
+## 🎯 Meus objetivos
+Aprimorar meus conhecimentos em programação.
+Desenvolver projetos cada vez mais completos.
+Aprender novas tecnologias e boas práticas.
+Construir minha carreira na área de tecnologia.
+## 🌎 Entrar em contato comigo. 
+
+📊 GitHub 
+
+![GitHub](https://img.shields.io/badge/GitHub-Visite%20meu%20perfil-181717?style=for-the-badge&logo=github)
+
+📧 @hiagol0707@gmail.com
+
+⭐ "Todo grande desenvolvedor já foi um iniciante. O importante é nunca parar de aprender!"
