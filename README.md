@@ -31,9 +31,7 @@ Construir minha carreira na área de tecnologia.
 
 📊 GitHub 
 
-🔗 GitHub
-
-![GitHub](https://img.shields.io/badge/GitHub-Acesse%20meu%20perfil-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-Acesse%20meu%20perfil-181717?style=for-the-badge&logo=github)https://github.com/hiagoF0707?utm_source=chatgpt.com
 
 📧 @hiagol0707@gmail.com
 
