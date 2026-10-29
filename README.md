@@ -31,8 +31,9 @@ Construir minha carreira na área de tecnologia.
 
 📊 GitHub 
 
-![GitHub](https://img.shields.io/badge/GitHub-Visite%20meu%20perfil-181717?style=for-the-badge&logo=github)
+🔗 GitHub
 
+![GitHub](https://img.shields.io/badge/GitHub-Acesse%20meu%20perfil-181717?style=for-the-badge&logo=github)
 📧 @hiagol0707@gmail.com
 
 ⭐ "Todo grande desenvolvedor já foi um iniciante. O importante é nunca parar de aprender!"
