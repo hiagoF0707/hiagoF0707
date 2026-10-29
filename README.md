@@ -31,7 +31,7 @@ Construir minha carreira na área de tecnologia.
 
 📊 GitHub 
 
-https://github.com/hiagoF0707?utm_source=chatgpt.com
+https://github.com/hiagoF0707
 
 📧 @hiagol0707@gmail.com
 
